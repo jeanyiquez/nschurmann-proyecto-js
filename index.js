@@ -3,6 +3,7 @@ const fn = () => {
     let b = miString + " muy feliz"
     console.log(b)
     console.log(HolaMundo)
+    miString.
 }
 
 fn()
